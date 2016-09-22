@@ -1,0 +1,36 @@
+{
+  "name": "decimal-to-percent",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Convert a decimal proportion to a percentage string",
+  "license": "MIT",
+  "repository": "bendrucker/decimal-to-percent",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "decimal",
+    "percentage",
+    "number",
+    "string",
+    "round",
+    "precision"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^7.0.0"
+  },
+  "files": [
+    "index.js",
+    "test.js"
+  ],
+  "dependencies": {
+    "precision": "~1.0.1",
+    "round-precision": "~1.0.0"
+  }
+}
