@@ -1,7 +1,7 @@
 'use strict'
 
-const roundPrecision = require('round-precision')
-const precision = require('precision')
+var roundPrecision = require('round-precision')
+var precision = require('precision')
 
 module.exports = decimalToPercent
 
