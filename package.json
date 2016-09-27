@@ -1,7 +1,7 @@
 {
   "name": "decimal-to-percent",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a decimal proportion to a percentage string",
   "license": "MIT",
   "repository": "bendrucker/decimal-to-percent",
