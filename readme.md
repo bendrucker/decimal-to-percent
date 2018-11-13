@@ -1,4 +1,4 @@
-# decimal-to-percent [![Build Status](https://travis-ci.org/bendrucker/decimal-to-percent.svg?branch=master)](https://travis-ci.org/bendrucker/decimal-to-percent)
+# decimal-to-percent [![Build Status](https://travis-ci.org/bendrucker/decimal-to-percent.svg?branch=master)](https://travis-ci.org/bendrucker/decimal-to-percent) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/decimal-to-percent.svg)](https://greenkeeper.io/)
 
 > Convert a decimal proportion to a percentage string
 
